@@ -1,0 +1,1 @@
+import{a1 as t}from"./index-D9lSgXpy.js";const o=e=>t({url:"/nova/feedback/list",method:"post",data:e}),s=e=>t({url:"/nova/report/list",method:"post",data:e}),a=e=>t({url:"/nova/feedback/review",method:"post",data:e}),n=e=>t({url:"/nova/feedback/ignore",method:"post",data:e}),c=e=>t({url:"/nova/feedback/reply",method:"post",data:e});export{s as a,a as b,o as g,n as i,c as r};

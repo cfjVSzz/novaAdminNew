@@ -1,0 +1,1 @@
+import{_ as t}from"./index-2bEstRlU.js";import{q as a,o,c as n,e as l,s as c}from"./index-D9lSgXpy.js";const d={__name:"index",setup(m){const e=a("https://testadmin.novago.me/prod-api/druid/login.html");return(p,r)=>(o(),n("div",null,[l(c(t),{src:e.value,"onUpdate:src":r[0]||(r[0]=s=>e.value=s)},null,8,["src"])]))}};export{d as default};
